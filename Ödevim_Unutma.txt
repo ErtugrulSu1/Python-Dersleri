@@ -1,0 +1,2 @@
+Klavyeden girilen fiyatı, KDV(%18) ekleyerek ekrana yazdırın.
+Klavyeden girilen karenin bir kenar uzunluğunu çevre hesapla 
