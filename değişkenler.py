@@ -9,9 +9,9 @@ Su
 Python 
 Ogreniyor . 
 """
-print(type(x))
+#print(type(x))
 print(type(y))
-print(type(z))
-print(type(c))
-print(type(g))
-print(a)
+# print(type(z))
+# print(type(c))
+# print(type(g))
+# print(a)
