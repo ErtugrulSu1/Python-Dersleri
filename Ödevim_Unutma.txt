@@ -1,2 +1,4 @@
-Klavyeden girilen fiyatı, KDV(%18) ekleyerek ekrana yazdırın.
-Klavyeden girilen karenin bir kenar uzunluğunu çevre hesapla 
+ Beş sayının toplamını ve ortalamasını veren programa ait algoritmayı oluşturunuz.
+ Klavyeden girilen Fahrenayt derecesini Cantigrad’a çevir
+ yorum satırı açıkla 
+ githuba yükle
