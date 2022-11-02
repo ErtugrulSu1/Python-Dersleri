@@ -1,4 +1,4 @@
  Beş sayının toplamını ve ortalamasını veren programa ait algoritmayı oluşturunuz.
- Klavyeden girilen Fahrenayt derecesini Cantigrad’a çevir
+ Klavyeden girilen Fahrenayt derecesini sntigrad’a çevir
  yorum satırı açıkla 
  githuba yükle
